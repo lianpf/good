@@ -18,6 +18,7 @@ No | library | desc | star
 No | library | desc | star
 :--- | :--- | :---| :---
 1| [webpack-contrib](https://github.com/webpack-contrib) | webpack loader、plugin等 |
+2|[webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)| analyze、bundle|
 
 ***
 ### 框架
